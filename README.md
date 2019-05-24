@@ -1,2 +1,0 @@
-# spotifyclient
-Created with CodeSandbox
